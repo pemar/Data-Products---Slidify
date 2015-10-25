@@ -1,0 +1,14 @@
+base
+ggplot2
+corrgram
+moments
+MASS
+vcd
+data.table
+fitdistrplus
+logspline
+rCharts
+reshape2
+slidify
+slidifyLibraries
+dygraphs
